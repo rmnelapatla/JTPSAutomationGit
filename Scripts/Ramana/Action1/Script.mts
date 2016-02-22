@@ -222,8 +222,9 @@ For tc = 0 To Ubound(arrtestcaselen)-1
 			Dim arrchildobj
 			ReDim arrchildobj(7)
 			' jtps
-			Set basewin=Browser(strBrwsID).page(strPageId)
+			Set basewin=Browser(strBrwsID).Page(strPageId)
 			
+
 			For colcnt = 0 To 6 Step 1
 				If colcnt=0 Then
 					arrchildobj(0)=strFieldName

@@ -1,0 +1,359 @@
+diff --git a/Batfiles/KillExcel.bat b/Batfiles/KillExcel.bat
+new file mode 100644
+index 0000000..3912d1f
+--- /dev/null
++++ b/Batfiles/KillExcel.bat
+@@ -0,0 +1 @@
++taskkill /IM excel.exe
+diff --git a/Batfiles/KillIE.bat b/Batfiles/KillIE.bat
+new file mode 100644
+index 0000000..56aa326
+--- /dev/null
++++ b/Batfiles/KillIE.bat
+@@ -0,0 +1 @@
++taskkill /F /IM iexplore.exe
+\ No newline at end of file
+diff --git a/FunctionLibrary/CommonFunctions.txt.lck b/FunctionLibrary/CommonFunctions.txt.lck
+new file mode 100644
+index 0000000..fdadd21
+Binary files /dev/null and b/FunctionLibrary/CommonFunctions.txt.lck differ
+diff --git a/FunctionLibrary/CommonFunctions_JTPS.txt.lck b/FunctionLibrary/CommonFunctions_JTPS.txt.lck
+new file mode 100644
+index 0000000..6366b4f
+Binary files /dev/null and b/FunctionLibrary/CommonFunctions_JTPS.txt.lck differ
+diff --git a/FunctionLibrary/Config - Sys.txt.lck b/FunctionLibrary/Config - Sys.txt.lck
+new file mode 100644
+index 0000000..dc4b6f3
+Binary files /dev/null and b/FunctionLibrary/Config - Sys.txt.lck differ
+diff --git a/FunctionLibrary/Config.txt.lck b/FunctionLibrary/Config.txt.lck
+new file mode 100644
+index 0000000..8dca16a
+Binary files /dev/null and b/FunctionLibrary/Config.txt.lck differ
+diff --git a/FunctionLibrary/CreateUsance.tsr b/FunctionLibrary/CreateUsance.tsr
+new file mode 100644
+index 0000000..d94f0bd
+Binary files /dev/null and b/FunctionLibrary/CreateUsance.tsr differ
+diff --git a/FunctionLibrary/Reportlib.txt.lck b/FunctionLibrary/Reportlib.txt.lck
+new file mode 100644
+index 0000000..bde5ee0
+Binary files /dev/null and b/FunctionLibrary/Reportlib.txt.lck differ
+diff --git a/FunctionLibrary/solReportlib.txt.lck b/FunctionLibrary/solReportlib.txt.lck
+new file mode 100644
+index 0000000..55c65d9
+Binary files /dev/null and b/FunctionLibrary/solReportlib.txt.lck differ
+diff --git a/ObjectRepository/JTPS.tsr b/ObjectRepository/JTPS.tsr
+deleted file mode 100644
+index d8722a7..0000000
+Binary files a/ObjectRepository/JTPS.tsr and /dev/null differ
+diff --git a/ObjectRepository/JTPS/JTPS.tsr.lck b/ObjectRepository/JTPS/JTPS.tsr.lck
+new file mode 100644
+index 0000000..6cf076f
+Binary files /dev/null and b/ObjectRepository/JTPS/JTPS.tsr.lck differ
+diff --git a/ObjectRepository/JTPS/Repository.xml b/ObjectRepository/JTPS/Repository.xml
+new file mode 100644
+index 0000000..23d5452
+Binary files /dev/null and b/ObjectRepository/JTPS/Repository.xml differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_11_24_25 PM/AccountTypesNew_2_16_2016_11_26_04 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_11_24_25 PM/AccountTypesNew_2_16_2016_11_26_04 PM.png
+new file mode 100644
+index 0000000..11f428c
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_11_24_25 PM/AccountTypesNew_2_16_2016_11_26_04 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_11_24_25 PM/AccountTypesNew_2_16_2016_11_26_12 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_11_24_25 PM/AccountTypesNew_2_16_2016_11_26_12 PM.png
+new file mode 100644
+index 0000000..adf3d8e
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_11_24_25 PM/AccountTypesNew_2_16_2016_11_26_12 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_11_24_25 PM/AccountTypesNew_2_16_2016_11_26_22 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_11_24_25 PM/AccountTypesNew_2_16_2016_11_26_22 PM.png
+new file mode 100644
+index 0000000..546e5d3
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_11_24_25 PM/AccountTypesNew_2_16_2016_11_26_22 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_11_24_25 PM/AccountTypesNew_2_16_2016_11_26_30 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_11_24_25 PM/AccountTypesNew_2_16_2016_11_26_30 PM.png
+new file mode 100644
+index 0000000..f18a493
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_11_24_25 PM/AccountTypesNew_2_16_2016_11_26_30 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_3_33_54 PM/AccountTypesNew_2_16_2016_3_35_46 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_3_33_54 PM/AccountTypesNew_2_16_2016_3_35_46 PM.png
+new file mode 100644
+index 0000000..cb3a199
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_3_33_54 PM/AccountTypesNew_2_16_2016_3_35_46 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_3_33_54 PM/AccountTypesNew_2_16_2016_3_36_03 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_3_33_54 PM/AccountTypesNew_2_16_2016_3_36_03 PM.png
+new file mode 100644
+index 0000000..63848cf
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_3_33_54 PM/AccountTypesNew_2_16_2016_3_36_03 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_3_33_54 PM/AccountTypesNew_2_16_2016_3_36_07 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_3_33_54 PM/AccountTypesNew_2_16_2016_3_36_07 PM.png
+new file mode 100644
+index 0000000..665e6f4
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_3_33_54 PM/AccountTypesNew_2_16_2016_3_36_07 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_3_33_54 PM/AccountTypesNew_2_16_2016_3_36_10 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_3_33_54 PM/AccountTypesNew_2_16_2016_3_36_10 PM.png
+new file mode 100644
+index 0000000..664f228
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_16_2016_3_33_54 PM/AccountTypesNew_2_16_2016_3_36_10 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_11_49 PM/AccountTypesNew_2_17_2016_2_13_36 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_11_49 PM/AccountTypesNew_2_17_2016_2_13_36 PM.png
+new file mode 100644
+index 0000000..b585f43
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_11_49 PM/AccountTypesNew_2_17_2016_2_13_36 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_11_49 PM/AccountTypesNew_2_17_2016_2_14_09 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_11_49 PM/AccountTypesNew_2_17_2016_2_14_09 PM.png
+new file mode 100644
+index 0000000..2558d37
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_11_49 PM/AccountTypesNew_2_17_2016_2_14_09 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_29_20 PM/AccountTypesNew_2_17_2016_2_30_48 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_29_20 PM/AccountTypesNew_2_17_2016_2_30_48 PM.png
+new file mode 100644
+index 0000000..32bdcbc
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_29_20 PM/AccountTypesNew_2_17_2016_2_30_48 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_29_20 PM/AccountTypesNew_2_17_2016_2_31_23 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_29_20 PM/AccountTypesNew_2_17_2016_2_31_23 PM.png
+new file mode 100644
+index 0000000..f49c29a
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_29_20 PM/AccountTypesNew_2_17_2016_2_31_23 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_29_20 PM/AccountTypesNew_2_17_2016_2_31_27 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_29_20 PM/AccountTypesNew_2_17_2016_2_31_27 PM.png
+new file mode 100644
+index 0000000..5245b73
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_29_20 PM/AccountTypesNew_2_17_2016_2_31_27 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_47_09 PM/AccountTypesNew_2_17_2016_2_48_33 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_47_09 PM/AccountTypesNew_2_17_2016_2_48_33 PM.png
+new file mode 100644
+index 0000000..a5c956c
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_47_09 PM/AccountTypesNew_2_17_2016_2_48_33 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_47_09 PM/AccountTypesNew_2_17_2016_2_49_11 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_47_09 PM/AccountTypesNew_2_17_2016_2_49_11 PM.png
+new file mode 100644
+index 0000000..1fb1ddb
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_47_09 PM/AccountTypesNew_2_17_2016_2_49_11 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_52_39 PM/AccountTypesNew_2_17_2016_2_54_07 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_52_39 PM/AccountTypesNew_2_17_2016_2_54_07 PM.png
+new file mode 100644
+index 0000000..98db88b
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_52_39 PM/AccountTypesNew_2_17_2016_2_54_07 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_52_39 PM/AccountTypesNew_2_17_2016_2_54_17 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_52_39 PM/AccountTypesNew_2_17_2016_2_54_17 PM.png
+new file mode 100644
+index 0000000..22404bc
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_52_39 PM/AccountTypesNew_2_17_2016_2_54_17 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_52_39 PM/AccountTypesNew_2_17_2016_2_54_44 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_52_39 PM/AccountTypesNew_2_17_2016_2_54_44 PM.png
+new file mode 100644
+index 0000000..44c8d64
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_2_52_39 PM/AccountTypesNew_2_17_2016_2_54_44 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_6_10_34 PM/AccountTypesNew_2_17_2016_6_12_35 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_6_10_34 PM/AccountTypesNew_2_17_2016_6_12_35 PM.png
+new file mode 100644
+index 0000000..1fa7451
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_6_10_34 PM/AccountTypesNew_2_17_2016_6_12_35 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_6_25_05 PM/AccountTypesNew_2_17_2016_6_27_00 PM.png b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_6_25_05 PM/AccountTypesNew_2_17_2016_6_27_00 PM.png
+new file mode 100644
+index 0000000..16cc613
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AccountTypesNew_2_17_2016_6_25_05 PM/AccountTypesNew_2_17_2016_6_27_00 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/AsynchronousTaskTypes_1_13_2016_6_52_56 AM.png b/Results/JTPS-DEVQA/IMG/AsynchronousTaskTypes_1_13_2016_6_52_56 AM.png
+new file mode 100644
+index 0000000..5517cf0
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/AsynchronousTaskTypes_1_13_2016_6_52_56 AM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/WorkItemTypes_2_17_2016_11_00_47 PM.png b/Results/JTPS-DEVQA/IMG/WorkItemTypes_2_17_2016_11_00_47 PM.png
+new file mode 100644
+index 0000000..7aa8b0e
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/WorkItemTypes_2_17_2016_11_00_47 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/WorkItemTypes_2_17_2016_11_02_31 PM.png b/Results/JTPS-DEVQA/IMG/WorkItemTypes_2_17_2016_11_02_31 PM.png
+new file mode 100644
+index 0000000..2a07a06
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/WorkItemTypes_2_17_2016_11_02_31 PM.png differ
+diff --git a/Results/JTPS-DEVQA/IMG/WorkItemTypes_2_17_2016_11_05_34 PM.png b/Results/JTPS-DEVQA/IMG/WorkItemTypes_2_17_2016_11_05_34 PM.png
+new file mode 100644
+index 0000000..a6f5e71
+Binary files /dev/null and b/Results/JTPS-DEVQA/IMG/WorkItemTypes_2_17_2016_11_05_34 PM.png differ
+diff --git a/TestData/9.2ATQA/BSET-7APT.xlsx b/TestData/9.2ATQA/BSET-7APT.xlsx
+new file mode 100644
+index 0000000..45cf5ae
+Binary files /dev/null and b/TestData/9.2ATQA/BSET-7APT.xlsx differ
+diff --git a/TestData/9.2ATQA/BSET-8ATPPT.xlsx b/TestData/9.2ATQA/BSET-8ATPPT.xlsx
+new file mode 100644
+index 0000000..8065b22
+Binary files /dev/null and b/TestData/9.2ATQA/BSET-8ATPPT.xlsx differ
+diff --git a/TestData/9.2ATQA/BSET-9BAPT.xlsx b/TestData/9.2ATQA/BSET-9BAPT.xlsx
+new file mode 100644
+index 0000000..8065b22
+Binary files /dev/null and b/TestData/9.2ATQA/BSET-9BAPT.xlsx differ
+diff --git a/TestData/9.2ATQA/Master_Ramana.xlsx b/TestData/9.2ATQA/Master_Ramana.xlsx
+new file mode 100644
+index 0000000..94c3843
+Binary files /dev/null and b/TestData/9.2ATQA/Master_Ramana.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/AML KYC Types.xlsx b/TestData/JTPS-DEVQA/AML KYC Types.xlsx
+new file mode 100644
+index 0000000..0cb9a19
+Binary files /dev/null and b/TestData/JTPS-DEVQA/AML KYC Types.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/AccountTypes.xlsx b/TestData/JTPS-DEVQA/AccountTypes.xlsx
+new file mode 100644
+index 0000000..6bcbe1d
+Binary files /dev/null and b/TestData/JTPS-DEVQA/AccountTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/ActivityTypes.xlsx b/TestData/JTPS-DEVQA/ActivityTypes.xlsx
+new file mode 100644
+index 0000000..9153372
+Binary files /dev/null and b/TestData/JTPS-DEVQA/ActivityTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/AsynchronousTaskTypes.xlsx b/TestData/JTPS-DEVQA/AsynchronousTaskTypes.xlsx
+new file mode 100644
+index 0000000..5a9ff20
+Binary files /dev/null and b/TestData/JTPS-DEVQA/AsynchronousTaskTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/AsynchronousTaskTypes_newmodel.xlsx b/TestData/JTPS-DEVQA/AsynchronousTaskTypes_newmodel.xlsx
+new file mode 100644
+index 0000000..0188cbb
+Binary files /dev/null and b/TestData/JTPS-DEVQA/AsynchronousTaskTypes_newmodel.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/BSET-7APT.xlsx b/TestData/JTPS-DEVQA/BSET-7APT.xlsx
+new file mode 100644
+index 0000000..ce3fa20
+Binary files /dev/null and b/TestData/JTPS-DEVQA/BSET-7APT.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/BSET46a-FXRate.xlsx b/TestData/JTPS-DEVQA/BSET46a-FXRate.xlsx
+new file mode 100644
+index 0000000..c15c664
+Binary files /dev/null and b/TestData/JTPS-DEVQA/BSET46a-FXRate.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/BulkPaymentTypes.xlsx b/TestData/JTPS-DEVQA/BulkPaymentTypes.xlsx
+new file mode 100644
+index 0000000..c7366cf
+Binary files /dev/null and b/TestData/JTPS-DEVQA/BulkPaymentTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/BusinessAreas.xlsx b/TestData/JTPS-DEVQA/BusinessAreas.xlsx
+new file mode 100644
+index 0000000..6ecd2e3
+Binary files /dev/null and b/TestData/JTPS-DEVQA/BusinessAreas.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/CalendarMonth.xlsx b/TestData/JTPS-DEVQA/CalendarMonth.xlsx
+new file mode 100644
+index 0000000..4ff030c
+Binary files /dev/null and b/TestData/JTPS-DEVQA/CalendarMonth.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/CarPurposeTypes.xlsx b/TestData/JTPS-DEVQA/CarPurposeTypes.xlsx
+new file mode 100644
+index 0000000..f82a1fd
+Binary files /dev/null and b/TestData/JTPS-DEVQA/CarPurposeTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/ChargeBasisTypes.xlsx b/TestData/JTPS-DEVQA/ChargeBasisTypes.xlsx
+new file mode 100644
+index 0000000..1c1e3b3
+Binary files /dev/null and b/TestData/JTPS-DEVQA/ChargeBasisTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/ChargeIntervalTypes.xlsx b/TestData/JTPS-DEVQA/ChargeIntervalTypes.xlsx
+new file mode 100644
+index 0000000..dfa48b5
+Binary files /dev/null and b/TestData/JTPS-DEVQA/ChargeIntervalTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/ChargeTypes.xlsx b/TestData/JTPS-DEVQA/ChargeTypes.xlsx
+new file mode 100644
+index 0000000..33098b9
+Binary files /dev/null and b/TestData/JTPS-DEVQA/ChargeTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/ClearingHouseIDTypes.xlsx b/TestData/JTPS-DEVQA/ClearingHouseIDTypes.xlsx
+new file mode 100644
+index 0000000..96893f1
+Binary files /dev/null and b/TestData/JTPS-DEVQA/ClearingHouseIDTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/ConversionRates.xlsx b/TestData/JTPS-DEVQA/ConversionRates.xlsx
+new file mode 100644
+index 0000000..00eabed
+Binary files /dev/null and b/TestData/JTPS-DEVQA/ConversionRates.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/CurrentStatusTypes.xlsx b/TestData/JTPS-DEVQA/CurrentStatusTypes.xlsx
+new file mode 100644
+index 0000000..947a037
+Binary files /dev/null and b/TestData/JTPS-DEVQA/CurrentStatusTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/DayRanges.xlsx b/TestData/JTPS-DEVQA/DayRanges.xlsx
+new file mode 100644
+index 0000000..ff161ca
+Binary files /dev/null and b/TestData/JTPS-DEVQA/DayRanges.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/Guarantee Purpose Types.xlsx b/TestData/JTPS-DEVQA/Guarantee Purpose Types.xlsx
+new file mode 100644
+index 0000000..bf7000b
+Binary files /dev/null and b/TestData/JTPS-DEVQA/Guarantee Purpose Types.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/ImageDocumentVersion.xlsx b/TestData/JTPS-DEVQA/ImageDocumentVersion.xlsx
+new file mode 100644
+index 0000000..2334840
+Binary files /dev/null and b/TestData/JTPS-DEVQA/ImageDocumentVersion.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/ImageSourceTypes.xlsx b/TestData/JTPS-DEVQA/ImageSourceTypes.xlsx
+new file mode 100644
+index 0000000..ced8a51
+Binary files /dev/null and b/TestData/JTPS-DEVQA/ImageSourceTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/InsuranceTypes.xlsx b/TestData/JTPS-DEVQA/InsuranceTypes.xlsx
+new file mode 100644
+index 0000000..c545b48
+Binary files /dev/null and b/TestData/JTPS-DEVQA/InsuranceTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/LimitHistoryTypes.xlsx b/TestData/JTPS-DEVQA/LimitHistoryTypes.xlsx
+new file mode 100644
+index 0000000..d3924b5
+Binary files /dev/null and b/TestData/JTPS-DEVQA/LimitHistoryTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/LimitTypes.xlsx b/TestData/JTPS-DEVQA/LimitTypes.xlsx
+new file mode 100644
+index 0000000..8759ef6
+Binary files /dev/null and b/TestData/JTPS-DEVQA/LimitTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/LiquidateTypes.xlsx b/TestData/JTPS-DEVQA/LiquidateTypes.xlsx
+new file mode 100644
+index 0000000..2732472
+Binary files /dev/null and b/TestData/JTPS-DEVQA/LiquidateTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/Master_Ramana.xlsx b/TestData/JTPS-DEVQA/Master_Ramana.xlsx
+new file mode 100644
+index 0000000..4379e9b
+Binary files /dev/null and b/TestData/JTPS-DEVQA/Master_Ramana.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/MatchResultStatusTypes.xlsx b/TestData/JTPS-DEVQA/MatchResultStatusTypes.xlsx
+new file mode 100644
+index 0000000..6ca26ef
+Binary files /dev/null and b/TestData/JTPS-DEVQA/MatchResultStatusTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/NumericWords.xlsx b/TestData/JTPS-DEVQA/NumericWords.xlsx
+new file mode 100644
+index 0000000..2fbfae8
+Binary files /dev/null and b/TestData/JTPS-DEVQA/NumericWords.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/PriorityTypes.xlsx b/TestData/JTPS-DEVQA/PriorityTypes.xlsx
+new file mode 100644
+index 0000000..ec3315b
+Binary files /dev/null and b/TestData/JTPS-DEVQA/PriorityTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/Process Mode Types.xlsx b/TestData/JTPS-DEVQA/Process Mode Types.xlsx
+new file mode 100644
+index 0000000..504dfd3
+Binary files /dev/null and b/TestData/JTPS-DEVQA/Process Mode Types.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/Process Step Types.xlsx b/TestData/JTPS-DEVQA/Process Step Types.xlsx
+new file mode 100644
+index 0000000..eeb9998
+Binary files /dev/null and b/TestData/JTPS-DEVQA/Process Step Types.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/ProductCategories.xlsx b/TestData/JTPS-DEVQA/ProductCategories.xlsx
+new file mode 100644
+index 0000000..160d4af
+Binary files /dev/null and b/TestData/JTPS-DEVQA/ProductCategories.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/ProductTypes.xlsx b/TestData/JTPS-DEVQA/ProductTypes.xlsx
+new file mode 100644
+index 0000000..1097b8e
+Binary files /dev/null and b/TestData/JTPS-DEVQA/ProductTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/Reduce Period Types.xlsx b/TestData/JTPS-DEVQA/Reduce Period Types.xlsx
+new file mode 100644
+index 0000000..34fb575
+Binary files /dev/null and b/TestData/JTPS-DEVQA/Reduce Period Types.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/Refinance Types.xlsx b/TestData/JTPS-DEVQA/Refinance Types.xlsx
+new file mode 100644
+index 0000000..6dfcd6a
+Binary files /dev/null and b/TestData/JTPS-DEVQA/Refinance Types.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/RefinanceTypes.xlsx b/TestData/JTPS-DEVQA/RefinanceTypes.xlsx
+new file mode 100644
+index 0000000..a9fe609
+Binary files /dev/null and b/TestData/JTPS-DEVQA/RefinanceTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/ReviewReasonTypes.xlsx b/TestData/JTPS-DEVQA/ReviewReasonTypes.xlsx
+new file mode 100644
+index 0000000..7ba8fc1
+Binary files /dev/null and b/TestData/JTPS-DEVQA/ReviewReasonTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/RevolvePeriods.xlsx b/TestData/JTPS-DEVQA/RevolvePeriods.xlsx
+new file mode 100644
+index 0000000..87219b1
+Binary files /dev/null and b/TestData/JTPS-DEVQA/RevolvePeriods.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/SWIFTBankOperationCodeTypes.xlsx b/TestData/JTPS-DEVQA/SWIFTBankOperationCodeTypes.xlsx
+new file mode 100644
+index 0000000..d1243b3
+Binary files /dev/null and b/TestData/JTPS-DEVQA/SWIFTBankOperationCodeTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/Settle Amount Types.xlsx b/TestData/JTPS-DEVQA/Settle Amount Types.xlsx
+new file mode 100644
+index 0000000..0e84991
+Binary files /dev/null and b/TestData/JTPS-DEVQA/Settle Amount Types.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/Tracer Types.xlsx b/TestData/JTPS-DEVQA/Tracer Types.xlsx
+new file mode 100644
+index 0000000..f9bb4ea
+Binary files /dev/null and b/TestData/JTPS-DEVQA/Tracer Types.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/VATTypes.xlsx b/TestData/JTPS-DEVQA/VATTypes.xlsx
+new file mode 100644
+index 0000000..ff720f3
+Binary files /dev/null and b/TestData/JTPS-DEVQA/VATTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/WhenTypes.xlsx b/TestData/JTPS-DEVQA/WhenTypes.xlsx
+new file mode 100644
+index 0000000..575fd45
+Binary files /dev/null and b/TestData/JTPS-DEVQA/WhenTypes.xlsx differ
+diff --git a/TestData/JTPS-DEVQA/limittype.xlsx b/TestData/JTPS-DEVQA/limittype.xlsx
+new file mode 100644
+index 0000000..c4ccdf2
+Binary files /dev/null and b/TestData/JTPS-DEVQA/limittype.xlsx differ
+diff --git a/TestData/JTPS-STRNGQA/BSET-7APT.xlsx b/TestData/JTPS-STRNGQA/BSET-7APT.xlsx
+new file mode 100644
+index 0000000..b045a7f
+Binary files /dev/null and b/TestData/JTPS-STRNGQA/BSET-7APT.xlsx differ
+diff --git a/TestData/JTPS-STRNGQA/BSET-8ATPPT.xlsx b/TestData/JTPS-STRNGQA/BSET-8ATPPT.xlsx
+new file mode 100644
+index 0000000..8065b22
+Binary files /dev/null and b/TestData/JTPS-STRNGQA/BSET-8ATPPT.xlsx differ
+diff --git a/TestData/JTPS-STRNGQA/BSET-9BAPT.xlsx b/TestData/JTPS-STRNGQA/BSET-9BAPT.xlsx
+new file mode 100644
+index 0000000..8065b22
+Binary files /dev/null and b/TestData/JTPS-STRNGQA/BSET-9BAPT.xlsx differ
+diff --git a/TestData/JTPS-STRNGQA/Master_Ramana.xlsx b/TestData/JTPS-STRNGQA/Master_Ramana.xlsx
+new file mode 100644
+index 0000000..94c3843
+Binary files /dev/null and b/TestData/JTPS-STRNGQA/Master_Ramana.xlsx differ
