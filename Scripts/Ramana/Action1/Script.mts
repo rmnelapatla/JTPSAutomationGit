@@ -319,7 +319,7 @@ For tc = 0 To Ubound(arrtestcaselen)-1
 		
 		set objjtpswin =basewin 
 		If boolen="Y" and ucase(boolRun)="Y" and ucase(strAppType)="JTPS"Then			
-					
+	Call Allalertshandlers	
 			select case lcase(strAction)
 			case "login"
 				strAppType=datatable("Application_Type",arrtestcaselen(tc)&"_Output")
