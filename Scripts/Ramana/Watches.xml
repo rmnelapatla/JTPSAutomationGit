@@ -1,7 +1,11 @@
 ﻿<Properties>
-  <WatchEntry0 value="ucase(rowinputs(inputcnt).value)" />
-  <WatchEntry1 value="ucase(indexcol(1))" />
-  <WatchEntry2 value="ucase(indexcol(0))" />
-  <WatchEntry3 value="ucase(NoDigits(rowinputs(inputcnt).name))" />
-  <WatchEntry4 value="rowcnt" />
+  <WatchEntry0 value="strResult" />
+  <WatchEntry1 value="vartestscenarioname" />
+  <WatchEntry2 value="strCaseDesc" />
+  <WatchEntry3 value="intstepNum" />
+  <WatchEntry4 value="trim(arrResult(0))" />
+  <WatchEntry5 value="arrResult(1),screenshot" />
+  <WatchEntry6 value="strFieldName" />
+  <WatchEntry7 value="strBname" />
+  <WatchEntry8 value="solHtmlLogFileHeader" />
 </Properties>
