@@ -1,5 +1,7 @@
 ﻿<Properties>
-  <WatchEntry0 value="ORregion" />
-  <WatchEntry1 value="JTPS_verifydata" />
-  <WatchEntry2 value="strResult" />
+  <WatchEntry0 value="ucase(rowinputs(inputcnt).value)" />
+  <WatchEntry1 value="ucase(indexcol(1))" />
+  <WatchEntry2 value="ucase(indexcol(0))" />
+  <WatchEntry3 value="ucase(NoDigits(rowinputs(inputcnt).name))" />
+  <WatchEntry4 value="rowcnt" />
 </Properties>
