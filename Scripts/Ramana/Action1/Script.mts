@@ -137,9 +137,9 @@ For tc = 0 To Ubound(arrtestcaselen)-1
 		End If
 		
 		intScriptstartval=1
-		
+		Dim slno
 		For introw = 1 To intTestcaserows
-			
+			slno=slno+1
 			datatable.GetSheet(arrtestcaselen(tc)&"_Output").SetCurrentRow(introw)
 			boolRuntestcase=datatable("Run_TestCase",arrtestcaselen(tc)&"_Output")
 			
@@ -319,7 +319,7 @@ For tc = 0 To Ubound(arrtestcaselen)-1
 		
 		set objjtpswin =basewin 
 		If boolen="Y" and ucase(boolRun)="Y" and ucase(strAppType)="JTPS"Then			
-	Call Allalertshandlers	
+	'Call Allalertshandlers	
 			select case lcase(strAction)
 			case "login"
 				strAppType=datatable("Application_Type",arrtestcaselen(tc)&"_Output")

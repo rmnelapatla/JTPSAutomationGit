@@ -35,11 +35,10 @@ ProductName=HP Unified Functional Testing
 Version=12.51
 
 [TulipAddins]
-ActiveX=
 Database=
-Dojo=
 File Content=
 Insight=
+Mobile=
 Windows Applications=
 TEA=
 Web=
