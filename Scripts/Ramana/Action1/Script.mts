@@ -1,5 +1,6 @@
 ﻿varTestpath =environment("TestDir")
 
+
 environment.value("errorexist")="False"
 environment.value("varpath") =Mid(varTestpath,1,Instrrev(Mid(varTestpath,1,instrrev(varTestpath,"\")-1),"\"))
 environment.value("applicationtype")="Web"

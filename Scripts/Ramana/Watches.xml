@@ -1,3 +1,5 @@
 ﻿<Properties>
   <WatchEntry0 value="strExpRes" />
+  <WatchEntry1 value="strFieldName" />
+  <WatchEntry2 value="txtbx" />
 </Properties>
