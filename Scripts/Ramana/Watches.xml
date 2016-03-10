@@ -1,5 +1,5 @@
 ﻿<Properties>
-  <WatchEntry0 value="strExpRes" />
-  <WatchEntry1 value="strFieldName" />
-  <WatchEntry2 value="txtbx" />
+  <WatchEntry0 value="strcomp( ucase(NoDigits(rowinputs(inputcnt).name)),ucase(indexcol(0)))" />
+  <WatchEntry1 value="strcomp( ucase(rowinputs(inputcnt).value),ucase(indexcol(1)))" />
+  <WatchEntry2 value="isempty(rowinputs(inputcnt).value)" />
 </Properties>
